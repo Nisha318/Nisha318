@@ -4,12 +4,12 @@
 
 <p> - 📫 How to reach me **eunishap@gmail.com** </p>
 
-<p> ### Cybersecurity Projects ### </p>
+<h4> ### Cybersecurity Projects ### </h4>
 SIEM - Azure Sentinel Map With LIve Cyber Attacks! </br>
 SIEM - Splunk </br>
 Nessus - Vulnerability Assessment Analysis and Remediation </br>
 
-<p> ### Cloud Projects ### </p>
+<h4> ### Cloud Projects ### </h4>
 Microsft Azure AZ-104 Lab Walkthroughs </br>
 Microsft Azure AZ-700 Lab Walkthroughs </br>
 
