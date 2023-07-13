@@ -17,7 +17,11 @@ Vulnerability Assessment Analysis and Remediation Using Nessus</br>
 Microsoft Azure AZ-104 Lab Walkthroughs </br>
 Microsoft Azure AZ-700 Lab Walkthroughs </br>
 
-<p>Connecting Azure Virtual Networks Using VNet Peering</p>
+<p>
+  <ul>
+      <li>Connecting Azure Virtual Networks Using VNet Peering</li>
+  </ul>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
