@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nisha</h1>
 <h3 align="center">A passionate Cloud Enthusiast and Network Engineer from the US!</h3>
 
-- 🌱 I’m currently learning **Python for automation** and **Terraform for IaC**
-
-- 📝 I regularly write articles on cloud [https://medium.com/@eunishap](https://medium.com/@eunishap)
 
 - 📫 How to reach me **eunishap@gmail.com**
 
-- 📄 Know about my experiences [https://www.nishacloud.com/](https://www.nishacloud.com/)
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
