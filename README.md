@@ -10,8 +10,8 @@ SIEM - Splunk </br>
 Vulnerability Assessment Analysis and Remediation Using Nessus</br>
 
 <h4> ### Cloud Projects ### </h4>
-Microsft Azure AZ-104 Lab Walkthroughs </br>
-Microsft Azure AZ-700 Lab Walkthroughs </br>
+Microsoft Azure AZ-104 Lab Walkthroughs </br>
+Microsoft Azure AZ-700 Lab Walkthroughs </br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
