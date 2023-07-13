@@ -7,7 +7,7 @@
 <h4> ### Cybersecurity Projects ### </h4>
 SIEM - Azure Sentinel Map With LIve Cyber Attacks! </br>
 SIEM - Splunk </br>
-Vulnerability Management - Vulnerability Assessment Analysis and Remediation Using Nessus</br>
+Vulnerability Assessment Analysis and Remediation Using Nessus</br>
 
 <h4> ### Cloud Projects ### </h4>
 Microsft Azure AZ-104 Lab Walkthroughs </br>
