@@ -2,16 +2,16 @@
 <h3 align="center">A passionate Network Engineer and Cloud Enthusiast from the US!</h3>
 
 
-- 📫 How to reach me **eunishap@gmail.com**
+<p> - 📫 How to reach me **eunishap@gmail.com** </p>
 
-### Cybersecurity Projects ###
-SIEM - Azure Sentinel Map With LIve Cyber Attacks! 
-SIEM - Splunk 
-Nessus - Vulnerability Assessment Analysis and Remediation
+<p> ### Cybersecurity Projects ### </p>
+SIEM - Azure Sentinel Map With LIve Cyber Attacks! </br>
+SIEM - Splunk </br?
+Nessus - Vulnerability Assessment Analysis and Remediation </br>
 
-### Cloud Projects ###
-Microsft Azure AZ-104 Lab Walkthroughs
-Microsft Azure AZ-700 Lab Walkthroughs
+<p> ### Cloud Projects ### </p>
+Microsft Azure AZ-104 Lab Walkthroughs </br>
+Microsft Azure AZ-700 Lab Walkthroughs </br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
