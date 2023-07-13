@@ -6,7 +6,7 @@
 
 <p> ### Cybersecurity Projects ### </p>
 SIEM - Azure Sentinel Map With LIve Cyber Attacks! </br>
-SIEM - Splunk </br?
+SIEM - Splunk </br>
 Nessus - Vulnerability Assessment Analysis and Remediation </br>
 
 <p> ### Cloud Projects ### </p>
