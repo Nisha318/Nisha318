@@ -14,15 +14,8 @@ SIEM - Splunk </br>
 Vulnerability Assessment Analysis and Remediation Using Nessus</br>
 
 <h4> ### Cloud Projects ### </h4>
-<h4> <a href="https://github.com/Nisha318/Microsoft-Azure-AZ-104-Azure-Administration-Lab-Walkthroughs"> Microsoft Azure AZ-104 Lab Walkthroughs </a> </h4>
+<h4> <a href="https://github.com/Nisha318/Microsoft-Azure-AZ-104-Azure-Administration-Lab-Walkthroughs"> Microsoft Azure Projects </a> </h4>
 
-<h3> Microsoft Azure AZ-700 Lab Walkthroughs </h4>
-
-<p>
-  <ul>
-      <li>Connecting Azure Virtual Networks Using VNet Peering</li>
-  </ul>
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
