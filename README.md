@@ -5,6 +5,7 @@
 <p> 📫 How to reach me **eunishap@gmail.com** </p>
 <p></p>
 <h3> ### Cybersecurity Projects ### </h3>
+
 <!--Incident Response and Handling: Include case studies where you effectively detected, analyzed, and responded to security incidents such as malware outbreaks, data breaches, or DDoS attacks. Highlight your ability to contain and remediate these incidents while minimizing impact.-->
 <h4> Incident Response and Handling </h4>
 <ul>
@@ -48,8 +49,10 @@
 <!--Security Tool Evaluation and Integration: Describe projects where you evaluated and integrated various security tools and technologies to enhance the overall security posture of an organization.-->
 
 <!--Documentation and Reporting: Showcase your ability to create comprehensive security reports, detailing findings, recommendations, and risk assessments for different stakeholders.-->
-
-<!--Documentation and Reporting: Showcase your ability to create comprehensive security reports, detailing findings, recommendations, and risk assessments for different stakeholders.-->
+<h4> Documentation and Reporting </h4>
+<ul>
+  <li>  <a href = "#"> Conduct an Internal Security Audit </a> </li>
+</ul>
 
 <!--Collaboration and Teamwork: Highlight any collaborative projects where you worked with cross-functional teams to address security challenges and implement solutions.-->
 
