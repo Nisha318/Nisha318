@@ -36,7 +36,7 @@
 <!--Network Security Design and Implementation: Provide examples of network security projects where you designed and implemented secure network architectures, firewalls, VPNs, and other security solutions.-->
 <h4> Network Security Design and Implementation</h4>
 <ul>
-  <li> <a href="#"> Configure Azure Firewall </a> </li>
+  <li> <a href="https://github.com/Nisha318/Nisha318.github.io/blob/main/_posts/2023-07-23-Deploy-Configure-Azure-Firewall.md"> Deploy and Configure Azure Firewall and Rules to Allow/Deny Access to Certain Websites </a> </li>
   <li> <a href="#"> Palo Alto Firewall </a> </li>
   <li> <a href="#"> Configure Site-to-Site VPN </a> </li>
 </ul>
