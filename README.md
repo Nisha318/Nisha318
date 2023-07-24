@@ -4,17 +4,23 @@
 
 <p> 📫 How to reach me **eunishap@gmail.com** </p>
 <p></p>
-<h4> ### Cybersecurity Projects ### </h4>
+<h3> ### Cybersecurity Projects ### </h3>
 <!--Incident Response and Handling: Include case studies where you effectively detected, analyzed, and responded to security incidents such as malware outbreaks, data breaches, or DDoS attacks. Highlight your ability to contain and remediate these incidents while minimizing impact.-->
+<h4> Incident Response and Handling </h4>
+<ul>
+  <li>  <a href = "#" > Incident Handling with Splunk </a> </li>
+    
+</ul>
+
 
 <!--Vulnerability Assessment and Penetration Testing: Showcase projects where you conducted thorough vulnerability assessments and penetration tests on both web applications and network infrastructure. Demonstrate how you identified weaknesses and provided recommendations for remediation.-->
-<h3> Vulnerability Management Projects</h3>
+<h4> Vulnerability Management Projects</h4>
 <ul>
   <li>  <a href = "https://github.com/Nisha318/Security/blob/main/Cybersecurity%20Vulnerability%20Management%20Project%20--%20OpenVAS/README.md"> Vulnerability Assessment Analysis and Remediation Using OpenVAS </a> </li>
 </ul>
 
 <!--Security Monitoring and SIEM Management: Describe projects where you set up and managed security monitoring systems, like SIEM (Security Information and Event Management), to monitor the network for suspicious activities and potential threats.-->
-<h3> Security Monitoring and SIEM Management</h3>
+<h4> Security Monitoring and SIEM Management</h4>
 
 <ul>
   <li> <a href="https://github.com/Nisha318/Splunk-Projects/tree/main/Create%20Dashboard%20in%20Splunk%20"> Create a Dashboard in Splunk </a> </li>
