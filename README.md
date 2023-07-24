@@ -33,7 +33,12 @@
 <!--Security Policy and Compliance: Showcase your experience in developing security policies, procedures, and guidelines aligned with industry standards and compliance frameworks (e.g., ISO 27001, NIST, GDPR).-->
 
 <!--Network Security Design and Implementation: Provide examples of network security projects where you designed and implemented secure network architectures, firewalls, VPNs, and other security solutions.-->
-
+<h4> Network Security Design and Implementation</h4>
+<ul>
+  <li> <a href="#"> Configure Azure Firewall </a> </li>
+  <li> <a href="#"> Palo Alto Firewall </a> </li>
+  <li> <a href="#"> Configure Site-to-Site VPN </a> </li>
+</ul>
 <!--Identity and Access Management (IAM): Discuss IAM projects where you improved access control measures, implemented multi-factor authentication, and ensured least privilege principles were followed.-->
 
 <!--Security Awareness and Training: Share any initiatives you led to educate employees about security best practices and raise security awareness across the organization.-->
