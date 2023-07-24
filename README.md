@@ -5,6 +5,32 @@
 <p> 📫 How to reach me **eunishap@gmail.com** </p>
 <p></p>
 <h4> ### Cybersecurity Projects ### </h4>
+<!--Incident Response and Handling: Include case studies where you effectively detected, analyzed, and responded to security incidents such as malware outbreaks, data breaches, or DDoS attacks. Highlight your ability to contain and remediate these incidents while minimizing impact.-->
+
+<!--Vulnerability Assessment and Penetration Testing: Showcase projects where you conducted thorough vulnerability assessments and penetration tests on both web applications and network infrastructure. Demonstrate how you identified weaknesses and provided recommendations for remediation.-->
+
+<!--Security Monitoring and SIEM Management: Describe projects where you set up and managed security monitoring systems, like SIEM (Security Information and Event Management), to monitor the network for suspicious activities and potential threats.-->
+
+<!--Threat Intelligence Analysis: Present examples of how you utilized threat intelligence feeds to proactively identify emerging threats and adapt security strategies accordingly.-->
+
+<!--Security Policy and Compliance: Showcase your experience in developing security policies, procedures, and guidelines aligned with industry standards and compliance frameworks (e.g., ISO 27001, NIST, GDPR).-->
+
+<!--Network Security Design and Implementation: Provide examples of network security projects where you designed and implemented secure network architectures, firewalls, VPNs, and other security solutions.-->
+
+<!--Identity and Access Management (IAM): Discuss IAM projects where you improved access control measures, implemented multi-factor authentication, and ensured least privilege principles were followed.-->
+
+<!--Security Awareness and Training: Share any initiatives you led to educate employees about security best practices and raise security awareness across the organization.-->
+
+<!--Threat Hunting and Analysis: Illustrate how you conducted proactive threat-hunting activities to search for potential threats and anomalies within the network.-->
+
+<!--Security Tool Evaluation and Integration: Describe projects where you evaluated and integrated various security tools and technologies to enhance the overall security posture of an organization.-->
+
+<!--Documentation and Reporting: Showcase your ability to create comprehensive security reports, detailing findings, recommendations, and risk assessments for different stakeholders.-->
+
+<!--Documentation and Reporting: Showcase your ability to create comprehensive security reports, detailing findings, recommendations, and risk assessments for different stakeholders.-->
+
+<!--Collaboration and Teamwork: Highlight any collaborative projects where you worked with cross-functional teams to address security challenges and implement solutions.-->
+
 SIEM - Azure Sentinel Map With LIve Cyber Attacks! </br>
 
 <h3>  Splunk Projects  </h3>
