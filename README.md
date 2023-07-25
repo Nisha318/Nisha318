@@ -51,7 +51,7 @@
 <!--Documentation and Reporting: Showcase your ability to create comprehensive security reports, detailing findings, recommendations, and risk assessments for different stakeholders.-->
 <h4> Documentation and Reporting </h4>
 <ul>
-  <li>  <a href = "#"> Conduct an Internal Security Audit </a> </li>
+  <li>  <a href = "https://github.com/Nisha318/Documentation-and-Reporting/tree/main/Conduct%20an%20Internal%20Security%20Audit"> Conduct an Internal Security Audit </a> </li>
 </ul>
 
 <!--Collaboration and Teamwork: Highlight any collaborative projects where you worked with cross-functional teams to address security challenges and implement solutions.-->
