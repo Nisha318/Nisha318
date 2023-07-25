@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nisha</h1>
-<h3 align="center">A passionate Network Engineer and Cloud Security Enthusiast from the US!</h3>
+<h3 align="center">A passionate Network Engineer and a Cloud and Security Enthusiast from the US!</h3>
 
 
 <p> 📫 How to reach me **eunishap@gmail.com** </p>
