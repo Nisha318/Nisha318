@@ -17,7 +17,7 @@
 <!--Vulnerability Assessment and Penetration Testing: Showcase projects where you conducted thorough vulnerability assessments and penetration tests on both web applications and network infrastructure. Demonstrate how you identified weaknesses and provided recommendations for remediation.-->
 <h4> Vulnerability Management Projects</h4>
 <ul>
-  <li>  <a href = "https://github.com/Nisha318/Security/blob/main/Cybersecurity%20Vulnerability%20Management%20Project%20--%20OpenVAS/README.md"> Vulnerability Assessment Analysis and Remediation Using OpenVAS </a> </li>
+  <li>  <a href = "https://github.com/Nisha318/Cybersecurity-Vulnerability-Management-Projects----OpenVAS#cybersecurity-vulnerability-management-project-with-openvas"> Vulnerability Assessment Analysis and Remediation Using OpenVAS </a> </li>
 </ul>
 
 <!--Security Monitoring and SIEM Management: Describe projects where you set up and managed security monitoring systems, like SIEM (Security Information and Event Management), to monitor the network for suspicious activities and potential threats.-->
