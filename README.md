@@ -24,7 +24,7 @@
 <h4> Security Monitoring and SIEM Management</h4>
 
 <ul>
-  <li> <a href="https://github.com/Nisha318/Splunk-Projects/tree/main/Create%20Dashboard%20in%20Splunk%20"> Create a Dashboard in Splunk </a> </li>
+  <li> <a href="https://github.com/Nisha318/Splunk-Projects/tree/main/Create%20Dashboard%20Using%20a%20Dataset"> Create a Dashboard in Splunk Using a Dataset</a> </li>
   <li> <a href="#"> Azure Sentinel Map With LIve Cyber Attacks! </a> </li>
 </ul>
 
