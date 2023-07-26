@@ -18,6 +18,7 @@
 <h4> Vulnerability Management Projects</h4>
 <ul>
   <li>  <a href = "https://github.com/Nisha318/Cybersecurity-Vulnerability-Management-Projects----OpenVAS#cybersecurity-vulnerability-management-project-with-openvas"> Vulnerability Assessment Analysis and Remediation Using OpenVAS </a> </li>
+  <li> <a href="https://github.com/Nisha318/Traffic-Analysis/tree/main/Wireshark"> Wireshark Traffic Analysis Activities </a> </li>
 </ul>
 
 <!--Security Monitoring and SIEM Management: Describe projects where you set up and managed security monitoring systems, like SIEM (Security Information and Event Management), to monitor the network for suspicious activities and potential threats.-->
@@ -39,6 +40,7 @@
   <li> <a href="https://nisha318.github.io/2022/12/04/Deploy-Configure-Azure-Firewall.html"> Deploy and Configure Azure Firewall and Rules to Allow/Deny Access to Certain Websites </a> </li>
   <li> <a href="#"> Palo Alto Firewall </a> </li>
   <li> <a href="#"> Configure Site-to-Site VPN </a> </li>
+  <li> <a href="https://github.com/Nisha318/Traffic-Analysis/tree/main/Wireshark"> Wireshark Traffic Analysis Activities </a> </li>
 </ul>
 <!--Identity and Access Management (IAM): Discuss IAM projects where you improved access control measures, implemented multi-factor authentication, and ensured least privilege principles were followed.-->
 
