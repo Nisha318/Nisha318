@@ -27,6 +27,7 @@
 <ul>
   <li> <a href="https://github.com/Nisha318/Splunk-Projects/tree/main/Create%20Dashboard%20Using%20a%20Dataset"> Create a Dashboard in Splunk Using a Dataset</a> </li>
   <li> <a href="https://github.com/Nisha318/Sentinel-SIEM-Projects/tree/main/Azure%20Sentinel%20Map%20With%20LIve%20Cyber%20Attacks!"> Azure Sentinel Map With LIve Cyber Attacks! </a> </li>
+  <li> <a href="https://github.com/Nisha318/Splunk-Projects/tree/main/Create%20a%20Dashboard%20with%20Pivot"> Create a Dashboard in Splunk with Pivot </a></li>
 </ul>
 
 
