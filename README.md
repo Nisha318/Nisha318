@@ -64,14 +64,16 @@
 
 
 <h4> ### Cloud Projects ### </h4>
+<ul>
 <li> <a href="https://github.com/Nisha318/Microsoft-Azure-AZ-104-Azure-Administration-Lab-Walkthroughs"> Microsoft Azure Projects </a> </li>
 <li> <a href="https://github.com/Nisha318/AWS-Repo"> AWS Projects </a> </li>
-<li> <a href="https://github.com/Nisha318/Terraform-Modules">Deploy a 3-tier AWS VPC Application Architecture using Terraform </a> </li>
+</ul>
 
 <h4> ### Terraform - Infrastructure as Code (IaC) Projects ### </h4>
   <ul> 
 <li> <a href="https://github.com/Nisha318/Terraform-Azure-Configs">Terraform Azure Configs </a> </li>
 <li> <a href="https://github.com/Nisha318/Terraform-AWS-Configs/tree/main/Build%20a%20Dev%20Environment%20with%20Terraform%20and%20AWS">Build a Dev Environment with AWS and Terraform</a></li>
+<li> <a href="https://github.com/Nisha318/Terraform-Modules">Deploy a 3-tier AWS VPC Application Architecture using Terraform </a> </li>
   </ul>
 
 <h3 align="left">Languages and Tools:</h3>
