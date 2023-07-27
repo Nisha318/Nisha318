@@ -54,6 +54,10 @@
 <h4> Documentation and Reporting </h4>
 <ul>
   <li>  <a href = "https://github.com/Nisha318/Documentation-and-Reporting/tree/main/Conduct%20an%20Internal%20Security%20Audit"> Conduct an Internal Security Audit </a> </li>
+
+  <Li>Cybersecurity Incident Report</Li>
+    <Li>Cybersecurity Incident Report - Network Traffic Analysis</Li>
+      <Li>Security Risk Assessment Report</Li>
 </ul>
 
 <!--Collaboration and Teamwork: Highlight any collaborative projects where you worked with cross-functional teams to address security challenges and implement solutions.-->
