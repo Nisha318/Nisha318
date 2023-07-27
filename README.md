@@ -67,6 +67,9 @@
 <ul>
 <li> <a href="https://github.com/Nisha318/Microsoft-Azure-AZ-104-Azure-Administration-Lab-Walkthroughs"> Microsoft Azure Projects </a> </li>
 <li> <a href="https://github.com/Nisha318/AWS-Repo"> AWS Projects </a> </li>
+    <ul>
+        <li> <a href="#"> Build an Amazon Connect Call Center on AWS</li>
+    </ul>
 </ul>
 
 <h4> ### Terraform - Infrastructure as Code (IaC) Projects ### </h4>
