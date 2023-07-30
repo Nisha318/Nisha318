@@ -57,7 +57,7 @@
   <li>  <a href = "https://github.com/Nisha318/Documentation-and-Reporting/tree/main/Conduct%20an%20Internal%20Security%20Audit"> Conduct an Internal Security Audit </a> </li>
 
   <Li>Cybersecurity Incident Report</Li>
-    <Li>Cybersecurity Incident Report - Network Traffic Analysis</Li>
+    <Li><a href="https://github.com/Nisha318/Network-Traffic-Analysis/blob/main/Analyze%20DNS%20and%20ICMP%20traffic.md"> Cybersecurity Incident Report - Network Traffic Analysis</a></Li>
       <Li>Security Risk Assessment Report</Li>
 </ul>
 
