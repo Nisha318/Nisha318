@@ -64,16 +64,16 @@
 <!--Collaboration and Teamwork: Highlight any collaborative projects where you worked with cross-functional teams to address security challenges and implement solutions.-->
 
 
-<h4> ### Cloud Projects ### </h4>
+<h3> ### Cloud Projects ### </h3>
 <ul>
-<li> <a href="https://github.com/Nisha318/Microsoft-Azure-AZ-104-Azure-Administration-Lab-Walkthroughs"> Microsoft Azure Projects </a> </li>
+<li> <a href="https://github.com/Nisha318/Microsoft-Azure-Projects"> Microsoft Azure Projects </a> </li>
 <li> <a href="https://github.com/Nisha318/AWS-Repo"> AWS Projects </a> </li>
     <ul>
         <li> <a href="#"> Build an Amazon Connect Call Center on AWS</li>
     </ul>
 </ul>
 
-<h4> ### Terraform - Infrastructure as Code (IaC) Projects ### </h4>
+<h3> ### Terraform - Infrastructure as Code (IaC) Projects ### </h3>
   <ul> 
 <li> <a href="https://github.com/Nisha318/Terraform-Azure-Configs">Terraform Azure Configs </a> </li>
 <li> <a href="https://github.com/Nisha318/Terraform-AWS-Configs/tree/main/Build%20a%20Dev%20Environment%20with%20Terraform%20and%20AWS">Build a Dev Environment with AWS and Terraform</a></li>
