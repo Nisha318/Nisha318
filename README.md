@@ -39,6 +39,7 @@
 <h4> Network Security Design and Implementation</h4>
 <ul>
   <li> <a href="https://nisha318.github.io/2022/12/04/Deploy-Configure-Azure-Firewall.html"> Deploy and Configure Azure Firewall and Rules to Allow/Deny Access to Certain Websites </a> </li>
+  <li> <a href="https://blog.devgenius.io/secured-virtual-hub-using-azure-firewall-manager-ad5e415d9e98?source=friends_link&sk=ac328162461bb0198cf47e940eac318c"> Configure a Secured Virtual Hub Using Azure Firewall Manager </a> </li>
   <li> <a href="#"> Palo Alto Firewall </a> </li>
   <li> <a href="#"> Configure Site-to-Site VPN </a> </li>
   <li> <a href="https://github.com/Nisha318/Network-Traffic-Analysis/blob/main/README.md"> Network Traffic Analysis Activities </a> </li>
