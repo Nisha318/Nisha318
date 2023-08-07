@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nisha</h1>
 <h3 align="center">A passionate Network Engineer and a Cloud and Security Enthusiast from the US!</h3>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nishaprudhomme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishaprudhomme" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCPSrBokxv9m6JLRx-08W8Ww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@eunishap" height="30" width="40" /></a>
+<a href="https://medium.com/@eunishap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eunishap" height="30" width="40" /></a>
 
-<p> 📫 How to reach me **eunishap@gmail.com** </p>
-<p></p>
+</p>
+
 <h3> ### Cybersecurity Projects ### </h3>
 
 <!--Incident Response and Handling: Include case studies where you effectively detected, analyzed, and responded to security incidents such as malware outbreaks, data breaches, or DDoS attacks. Highlight your ability to contain and remediate these incidents while minimizing impact.-->
@@ -19,6 +24,7 @@
 <ul>
   <li>  <a href = "https://github.com/Nisha318/Cybersecurity-Vulnerability-Management-Projects----OpenVAS#cybersecurity-vulnerability-management-project-with-openvas"> Vulnerability Assessment Analysis and Remediation Using OpenVAS </a> </li>
   <li> <a href="https://github.com/Nisha318/Network-Traffic-Analysis/blob/main/README.md"> Network Traffic Analysis Activities </a> </li>
+  <li>  <a href="https://nisha318.github.io/2023/08/06/Vulnerability-Scanning-with-Nmap-Network-Scanning.html"> Vulnerability Scanning with Nmap: Network Scanning</li>
 </ul>
 
 <!--Security Monitoring and SIEM Management: Describe projects where you set up and managed security monitoring systems, like SIEM (Security Information and Event Management), to monitor the network for suspicious activities and potential threats.-->
