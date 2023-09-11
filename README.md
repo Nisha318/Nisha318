@@ -26,7 +26,7 @@
 <ul>
   <li>  <a href = "https://github.com/Nisha318/Cybersecurity-Vulnerability-Management-Projects----OpenVAS#cybersecurity-vulnerability-management-project-with-openvas"> Vulnerability Assessment Analysis and Remediation Using OpenVAS </a> </li>
   <li> <a href="https://github.com/Nisha318/Network-Traffic-Analysis/blob/main/README.md"> Network Traffic Analysis Activities </a> </li>
-  <li>  <a href="https://nisha318.github.io/2023/08/06/Vulnerability-Scanning-with-Nmap-Network-Scanning.html"> Vulnerability Scanning with Nmap: Network Scanning</li>
+  <li>  <a href="https://nisha318.github.io/Vulnerability-Scanning-with-Nmap-Network-Scanning/"> Vulnerability Scanning with Nmap: Network Scanning</li>
 </ul>
 
 <!--Security Monitoring and SIEM Management: Describe projects where you set up and managed security monitoring systems, like SIEM (Security Information and Event Management), to monitor the network for suspicious activities and potential threats.-->
