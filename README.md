@@ -24,7 +24,7 @@
 <!--Vulnerability Assessment and Penetration Testing: Showcase projects where you conducted thorough vulnerability assessments and penetration tests on both web applications and network infrastructure. Demonstrate how you identified weaknesses and provided recommendations for remediation.-->
 <h4> Vulnerability Management Projects</h4>
 <ul>
-  <li>  <a href = "https://github.com/Nisha318/Cybersecurity-Vulnerability-Management-Projects----OpenVAS#cybersecurity-vulnerability-management-project-with-openvas"> Vulnerability Assessment Analysis and Remediation Using OpenVAS </a> </li>
+  <li>  <a href = "https://nisha318.github.io/Vulnerability-Scanning-with-OpenVAS-Unveiling-Cybersecurity-Insights/"> Vulnerability Assessment Analysis and Remediation Using OpenVAS </a> </li>
   <li> <a href="https://github.com/Nisha318/Network-Traffic-Analysis/blob/main/README.md"> Network Traffic Analysis Activities </a> </li>
   <li>  <a href="https://nisha318.github.io/Vulnerability-Scanning-with-Nmap-Network-Scanning/"> Vulnerability Scanning with Nmap: Network Scanning</li>
 </ul>
