@@ -1,6 +1,6 @@
 name: TryHackMe Update Badge
 
-on:
+on: create
   schedule:
     # Make it run every 24 hour
     - cron: '0 0 * * *'
