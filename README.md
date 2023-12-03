@@ -1,4 +1,6 @@
-![tryhackme stats](https://raw.githubusercontent.com/nisha281/nisha28/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/nisha281/nisha281/master/assets/thm_propic.png)
+
+
 
 <h1 align="center">Hi 👋, I'm Nisha</h1>
 <h3 align="center">A passionate Network Engineer and a Cloud and Security Enthusiast from the US!</h3>
