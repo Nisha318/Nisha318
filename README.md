@@ -1,3 +1,4 @@
+<img src="https://tryhackme-badges.s3.amazonaws.com/nisha281.png" alt="TryHackMe">
 
 <h1 align="center">Hi 👋, I'm Nisha</h1>
 <h3 align="center">A passionate Network Engineer and a Cloud and Security Enthusiast from the US!</h3>
