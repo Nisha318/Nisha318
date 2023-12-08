@@ -1,4 +1,6 @@
-![tryhackme stats](https://raw.githubusercontent.com/nisha281/nisha281/master/assets/thm_propic.png)
+<img src="https://tryhackme.com/badge/1232358">
+
+
 
 
 
