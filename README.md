@@ -1,8 +1,3 @@
-<img src="https://tryhackme.com/badge/1232358">
-
-
-
-
 
 <h1 align="center">Hi 👋, I'm Nisha</h1>
 <h3 align="center">A passionate Network Engineer and a Cloud and Security Enthusiast from the US!</h3>
