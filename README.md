@@ -26,6 +26,7 @@
 <h4> Vulnerability Management Projects</h4>
 <ul>
   <li>  <a href = "https://nisha318.github.io/Vulnerability-Scanning-with-OpenVAS-Unveiling-Cybersecurity-Insights/"> Vulnerability Assessment Analysis and Remediation Using OpenVAS </a> </li>
+   <li>  <a href = "https://www.youtube.com/watch?v=pfRZ7aAl_NU&t=7s"> Scan for Vulnerabilities Using OpenVAS </a> </li> 
   <li> <a href="https://github.com/Nisha318/Network-Traffic-Analysis/blob/main/README.md"> Network Traffic Analysis Activities </a> </li>
   <li>  <a href="https://nisha318.github.io/Vulnerability-Scanning-with-Nmap-Network-Scanning/"> Vulnerability Scanning with Nmap: Network Scanning</li>
 </ul>
