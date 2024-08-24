@@ -23,7 +23,7 @@
 
 <h4> Penetration Testing and Ethical Hacking </h4>
 <ul>
-  <li>https://github.com/Nisha318/Ethical-Hacking-Penetration-Testing</li>
+  <li><a href="https://github.com/Nisha318/Ethical-Hacking-Penetration-Testing/blob/main/Active%20Directory%20Attacks/README.md"> Active Directory Penetration Testing Lab </li>
 </ul>
 <!--Incident Response and Handling: Include case studies where you effectively detected, analyzed, and responded to security incidents such as malware outbreaks, data breaches, or DDoS attacks. Highlight your ability to contain and remediate these incidents while minimizing impact.-->
 <h4> Incident Response and Handling </h4>
