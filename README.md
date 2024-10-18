@@ -17,6 +17,7 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/nisha281.png" alt="TryHackMe">
 
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/nisha281.png)](https://tryhackme.com/p/nisha281)
 
 
 <h3> ### Cybersecurity Projects ### </h3>
