@@ -11,7 +11,7 @@ Cybersecurity Engineer | Cloud Security | Threat Detection & RMF Compliance
 
 <h3> ### Projects ### </h3>
 
-<h3> ### Cloud Security, Compliance & IaC ### </h3>
+#### Cloud Security, Compliance & IaC ####
 <ul>
 <li> <a href="https://github.com/Nisha318/Microsoft-Azure-Projects"> Microsoft Azure Projects </a> </li>
 <li> <a href="https://github.com/Nisha318/AWS-Repo"> AWS Projects </a> </li>
@@ -47,7 +47,7 @@ Cybersecurity Engineer | Cloud Security | Threat Detection & RMF Compliance
 </ul>
 
 <h4>Offensive Security and Adversary Emulation</h4>
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/nisha281.png)](https://tryhackme.com/p/nisha281)
+
 <ul>
   <li><a href="https://github.com/Nisha318/Ethical-Hacking-Penetration-Testing/blob/main/Active%20Directory%20Attacks/README.md"> Active Directory Penetration Testing Lab </li>
   <li><a href="https://github.com/Nisha318/hack-the-box-walkthroughs/blob/main/README.md"> Hack the Box Walkthroughs</li>
@@ -56,6 +56,8 @@ Cybersecurity Engineer | Cloud Security | Threat Detection & RMF Compliance
     
 </ul>
 <!--Incident Response and Handling: Include case studies where you effectively detected, analyzed, and responded to security incidents such as malware outbreaks, data breaches, or DDoS attacks. Highlight your ability to contain and remediate these incidents while minimizing impact.-->
+
+
 <h4> Incident Response and Handling </h4>
 <ul>
   <li>  <a href = "https://github.com/Nisha318/Incident-Response-and-Handling/tree/main/Incident%20Handling%20with%20Splunk" > Incident Handling with Splunk </a> </li>
@@ -75,18 +77,14 @@ Cybersecurity Engineer | Cloud Security | Threat Detection & RMF Compliance
 
 <!--Threat Intelligence Analysis: Present examples of how you utilized threat intelligence feeds to proactively identify emerging threats and adapt security strategies accordingly.-->
 
-<!--Security Policy and Compliance: Showcase your experience in developing security policies, procedures, and guidelines aligned with industry standards and compliance frameworks (e.g., ISO 27001, NIST, GDPR).-->
+
 
 <!--Identity and Access Management (IAM): Discuss IAM projects where you improved access control measures, implemented multi-factor authentication, and ensured least privilege principles were followed.-->
 
-<!--Security Awareness and Training: Share any initiatives you led to educate employees about security best practices and raise security awareness across the organization.-->
 
 <!--Threat Hunting and Analysis: Illustrate how you conducted proactive threat-hunting activities to search for potential threats and anomalies within the network.-->
 
 <!--Security Tool Evaluation and Integration: Describe projects where you evaluated and integrated various security tools and technologies to enhance the overall security posture of an organization.-->
-
-
-<!--Collaboration and Teamwork: Highlight any collaborative projects where you worked with cross-functional teams to address security challenges and implement solutions.-->
 
 
 <h3 align="left">Languages and Tools:</h3>
