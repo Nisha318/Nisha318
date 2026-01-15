@@ -53,7 +53,7 @@ Currently: Senior Cyber Security Engineer supporting cloud-hosted systems | CISS
 - Automated Trivy scanning in GitHub Actions
 - Vulnerability reporting & CVE tracking
 - Policy enforcement for production deployments
-- [View Project →](#)
+- [View Project →](https://github.com/Nisha318/trivy-image-scan-pipeline)
 
 </td>
 <td width="50%">
@@ -62,7 +62,7 @@ Currently: Senior Cyber Security Engineer supporting cloud-hosted systems | CISS
 - Lambda-based security group remediation
 - CloudWatch Events for real-time response
 - NIST 800-53 SC-7 control automation
-- [View Project →](#)
+- [View Project →](https://github.com/Nisha318/config-auto-revoke-sg)
 
 </td>
 </tr>
@@ -82,7 +82,7 @@ Currently: Senior Cyber Security Engineer supporting cloud-hosted systems | CISS
 - Azure Firewall policy automation
 - Micro-segmentation implementation
 - Site-to-Site VPN configurations
-- [View Project →](https://nisha318.github.io/Deploy-Configure-Azure-Firewall/)
+- [View Project →](#)
 
 </td>
 </tr>
