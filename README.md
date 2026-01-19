@@ -82,7 +82,7 @@ Currently: Senior Cyber Security Engineer supporting cloud-hosted systems | CISS
 - Azure Firewall policy automation
 - Micro-segmentation implementation
 - Site-to-Site VPN configurations
-- [View Project →](#)
+- [View Project →](https://github.com/Nisha318/cloud-network-segmentation)
 
 </td>
 </tr>
