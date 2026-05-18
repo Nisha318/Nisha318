@@ -1,61 +1,66 @@
 # Hi, I'm Nisha 👋
 
-**Cloud Security Engineer | GRC Engineering | Security Automation**
+**Cloud Security Engineer | DevSecOps | GRC Automation**
 
-I'm a cybersecurity professional specializing in bridging compliance frameworks with cloud security automation. I build security controls as code, automate vulnerability remediation, and implement policy-driven security architectures in AWS and Azure environments.
+I build security controls as code. My work sits at the intersection of cloud engineering and compliance automation: translating NIST 800-53 controls into working infrastructure, designing DevSecOps pipelines that catch vulnerabilities before deployment, and architecting secure systems in AWS and Azure environments.
 
-Currently: Senior Cyber Security Engineer supporting cloud-hosted systems | CISSP | AWS Solutions Architect Associate 
+Currently a Cloud Engineer at ManTech, supporting cloud-hosted systems in complex compliance environments. CISSP | AWS Solutions Architect Associate | AWS Security Specialty (in progress)
 
-🔗 [LinkedIn](https://linkedin.com/in/nishapmcd) | 📝 [Technical Blog](https://www.notesbynisha.com) | 📚 [Personal Page](https://www.nishacloud.com)
+🔗 [LinkedIn](https://linkedin.com/in/nishapmcd) | 📝 [Blog](https://www.notesbynisha.com) | 🌐 [Portfolio](https://www.nishacloud.com)
 
 ---
 
 ## 🎯 What I'm Working On
 
-- 🔐 Building **container security scanning pipelines** with GitHub Actions & Trivy
-- ☁️ Implementing **AWS Config auto-remediation** for security group misconfigurations  
-- 🎓 Studying for **AWS Security Specialty** certification
-- 🌱 Exploring **policy-as-code** with OPA and compliance automation frameworks
+- 🐳 **[From Docker to EKS: A Security-First Progression](https://github.com/Nisha318/container-security-progression)** — Container security portfolio project building from Docker through EKS, with Trivy scanning, OpenTofu IaC, and NIST 800-53 control mapping
+- 🔬 **Compliance-as-Code Builder Session** — Developing a hands-on lab for the GRC Engineering Club covering Terraform and Checkov in an audit-ready CI/CD pipeline
+- 🎓 **AWS Certified Security – Specialty** — Active exam prep
 
 ---
 
 ## 💼 Core Competencies
 
-**Cloud Security & Automation**
-- AWS Security Architecture (VPC, IAM, Config, CloudTrail, GuardDuty)
-- Infrastructure as Code (Terraform, CloudFormation)
-- Container Security (Docker, Kubernetes, ECR scanning)
-- CI/CD Security Integration (GitHub Actions, security gates)
+**Cloud Engineering & Security Architecture**
+- AWS Security (VPC, IAM, Config, CloudTrail, GuardDuty, Security Hub)
+- Infrastructure as Code (OpenTofu, Terraform, CloudFormation)
+- Container Security (Docker, Kubernetes, ECR, Trivy scanning)
+- CI/CD Security Integration (GitHub Actions, OIDC, security gates)
 
-**GRC & Compliance Engineering**  
-- RMF/ATO Process (NIST 800-53, FISMA, FedRAMP)
-- Vulnerability Management (Tenable Nessus, ACAS, automated remediation)
+**GRC & Compliance Engineering**
+- NIST 800-53 Control Implementation and Automation
+- RMF/ATO Process (FISMA, FedRAMP)
+- Vulnerability Management (Tenable/ACAS, automated remediation, POA&M)
 - eMASS Authorization Workflows
-- Policy-to-Code Translation (compliance automation)
+- Compliance-as-Code (Checkov, policy-to-code translation)
 
-**Security Operations**
-- SIEM Analytics (Splunk, Azure Sentinel)
-- Network Security (Zero Trust, micro-segmentation, firewalls)
-- Threat Detection & Incident Response
-- Penetration Testing & Red Team Operations
+**DevSecOps**
+- SAST/SCA pipeline integration (Semgrep, Gitleaks, NJSScan)
+- Secrets scanning and pre-commit enforcement
+- DefectDojo vulnerability tracking and triage
+- Python/boto3 automation and Lambda-based remediation
 
 ---
 
 ## 🚀 Featured Projects
 
+### Container Security
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [From Docker to EKS: A Security-First Progression](https://github.com/Nisha318/container-security-progression) | Docker, EKS, Trivy, OpenTofu, GitHub Actions | Stage-by-stage container security build from local Docker through managed Kubernetes, with NIST 800-53 mapping at each layer |
+| [Container Security Scanning Pipeline](https://github.com/Nisha318/trivy-image-scan-pipeline) | Trivy, GitHub Actions | Automated image scanning with CVE reporting and policy enforcement gates |
+
+### DevSecOps Pipelines
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [Application Vulnerability Scanning Pipeline](https://github.com/Nisha318/app-vuln-scanning) | Semgrep, Gitleaks, NJSScan, DefectDojo, GitHub Actions | Multi-tool SAST and secrets scanning pipeline with pre-commit hooks and DefectDojo integration; maps to NIST 800-53 |
+| [Terraform Flask Lab](https://github.com/Nisha318/terraform-flask-lab) | OpenTofu, Flask, GitHub Actions OIDC, S3 backend | Flask on AWS EC2 via OpenTofu with OIDC-based CI/CD, remote state, and NIST 800-53 control mapping |
+
 ### Cloud Security Automation
 
 <table>
 <tr>
-<td width="50%">
-
-**🔍 Container Security Scanning Pipeline**
-- Automated Trivy scanning in GitHub Actions
-- Vulnerability reporting & CVE tracking
-- Policy enforcement for production deployments
-- [View Project →](https://github.com/Nisha318/trivy-image-scan-pipeline)
-
-</td>
 <td width="50%">
 
 **⚙️ AWS Config Auto-Remediation**
@@ -65,13 +70,22 @@ Currently: Senior Cyber Security Engineer supporting cloud-hosted systems | CISS
 - [View Project →](https://github.com/Nisha318/config-auto-revoke-sg)
 
 </td>
+<td width="50%">
+
+**🔐 Azure AD + AWS SAML SSO Federation**
+- Cross-cloud identity federation
+- SAML trust policy configuration
+- Troubleshooting and debugging methodology
+- [View Project →](https://github.com/Nisha318)
+
+</td>
 </tr>
 <tr>
 <td width="50%">
 
 **🏗️ 3-Tier AWS VPC with Terraform**
 - Production-grade network architecture
-- Security group automation & least privilege
+- Security group automation and least privilege
 - Multi-AZ resilient design
 - [View Project →](https://github.com/Nisha318/Terraform-Modules)
 
@@ -88,86 +102,75 @@ Currently: Senior Cyber Security Engineer supporting cloud-hosted systems | CISS
 </tr>
 </table>
 
-### Infrastructure as Code (IaC)
-
-| Project | Technology Stack | Description |
-|---------|-----------------|-------------|
-| [Terraform AWS Configs](https://github.com/Nisha318/Terraform-AWS-Configs/tree/main/Build%20a%20Dev%20Environment%20with%20Terraform%20and%20AWS) | Terraform, AWS, GitOps | Automated dev environment provisioning with security controls |
-| [Terraform Azure Configs](https://github.com/Nisha318/Terraform-Azure-Configs) | Terraform, Azure, ARM | Azure infrastructure deployment with compliance baselines |
-| [AWS Security Projects](https://github.com/Nisha318/AWS-Repo) | AWS, Python, Lambda | Security automation and serverless architectures |
-| [Azure Security Projects](https://github.com/Nisha318/Microsoft-Azure-Projects) | Azure, PowerShell, Sentinel | Cloud security monitoring and SIEM integration |
-
 ### Vulnerability & Compliance Management
 
-- **[OpenVAS Vulnerability Assessment](https://nisha318.github.io/Vulnerability-Scanning-with-OpenVAS-Unveiling-Cybersecurity-Insights/)** - Complete vulnerability analysis workflow with remediation tracking
-- **[Nmap Network Scanning](https://nisha318.github.io/Vulnerability-Scanning-with-Nmap-Network-Scanning/)** - Automated network discovery and security posture assessment
-- **[Network Traffic Analysis](https://github.com/Nisha318/Network-Traffic-Analysis)** - Packet capture analysis for threat hunting
+- **[OpenVAS Vulnerability Assessment](https://nisha318.github.io/Vulnerability-Scanning-with-OpenVAS-Unveiling-Cybersecurity-Insights/)** — Complete vulnerability analysis workflow with remediation tracking
+- **[Nmap Network Scanning](https://nisha318.github.io/Vulnerability-Scanning-with-Nmap-Network-Scanning/)** — Automated network discovery and security posture assessment
+- **[AWS Security Posture Checker](https://github.com/Nisha318)** — Python/boto3 tool combining EC2 inventory and S3 security auditing
 
 ### Threat Detection & Security Operations
 
-- **[Azure Sentinel Live Attack Map](https://github.com/Nisha318/Sentinel-SIEM-Projects/tree/main/Azure%20Sentinel%20Map%20With%20LIve%20Cyber%20Attacks!)** - Real-time threat visualization and geo-mapping
-- **[Incident Handling with Splunk](https://github.com/Nisha318/Incident-Response-and-Handling/tree/main/Incident%20Handling%20with%20Splunk)** - End-to-end incident response workflows
-- **[Splunk Universal Forwarder Setup](https://github.com/Nisha318/Splunk-Projects/blob/main/Configure%20a%20Splunk%20Universal%20Forwarder.md)** - Log aggregation and centralized monitoring
+- **[Azure Sentinel Live Attack Map](https://github.com/Nisha318/Sentinel-SIEM-Projects/tree/main/Azure%20Sentinel%20Map%20With%20LIve%20Cyber%20Attacks!)** — Real-time threat visualization and geo-mapping
+- **[Incident Handling with Splunk](https://github.com/Nisha318/Incident-Response-and-Handling/tree/main/Incident%20Handling%20with%20Splunk)** — End-to-end incident response workflows
 
 ### Offensive Security & Red Team
 
-- **[Active Directory Penetration Testing](https://github.com/Nisha318/Ethical-Hacking-Penetration-Testing/blob/main/Active%20Directory%20Attacks/README.md)** - Full AD attack chain lab environment
-- **[Hack the Box Walkthroughs](https://github.com/Nisha318/hack-the-box-walkthroughs)** - CTF solutions and exploitation techniques
-- **[TryHackMe Labs](https://github.com/Nisha318/TryHackMe-Walkthroughs)** - Security challenges and skill development
-- **[Penetration Testing Notes](https://github.com/Nisha318/pentest-notes-by-nisha/blob/main/SUMMARY.md)** - Comprehensive offensive security reference
-
-### Network Security (NIST 800-53 SC-7)
-
-- **[Azure Firewall Manager](https://blog.devgenius.io/secured-virtual-hub-using-azure-firewall-manager-ad5e415d9e98)** - Secured virtual hub with centralized policy management
-- **[Palo Alto Firewall Projects](https://github.com/Nisha318/Palo-Alto-Firewall)** - Enterprise firewall configurations and security policies
+- **[Active Directory Penetration Testing](https://github.com/Nisha318/Ethical-Hacking-Penetration-Testing/blob/main/Active%20Directory%20Attacks/README.md)** — Full AD attack chain lab environment
+- **[Hack the Box Walkthroughs](https://github.com/Nisha318/hack-the-box-walkthroughs)** — CTF solutions and exploitation techniques
+- **[Penetration Testing Notes](https://github.com/Nisha318/pentest-notes-by-nisha/blob/main/SUMMARY.md)** — Comprehensive offensive security reference
 
 ---
 
 ## 🛠️ Technology Stack
 
-**Cloud Platforms**  
+**Cloud Platforms**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-**Infrastructure & Automation**  
+**Infrastructure & Automation**
+![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA44?style=for-the-badge&logo=opentofu&logoColor=black)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-**Security Tools**  
+**Security & Scanning Tools**
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white)
+![Checkov](https://img.shields.io/badge/Checkov-4B275F?style=for-the-badge&logoColor=white)
+![Semgrep](https://img.shields.io/badge/Semgrep-20B2AA?style=for-the-badge&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Tenable](https://img.shields.io/badge/Tenable-00B388?style=for-the-badge&logo=tenable&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white)
 
-**Programming & Scripting**  
+**Programming & Scripting**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-**DevSecOps**  
+**DevSecOps**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white)
+![DefectDojo](https://img.shields.io/badge/DefectDojo-E84040?style=for-the-badge&logoColor=white)
 
 ---
 
 ## 📜 Certifications
 
-- **CISSP** - Certified Information Systems Security Professional
+- **CISSP** — Certified Information Systems Security Professional
 - **AWS Solutions Architect Associate**
-- **GDSA** - GIAC Defendable Security Architecture
-- **CompTIA Security+** (Instructor)
-- 🎯 Currently studying: **AWS Certified Security - Specialty**
+- **Azure Administrator Associate (AZ-104)**
+- **Azure Network Engineer Associate (AZ-700)**
+- **GDSA** — GIAC Defendable Security Architecture
+- **CompTIA Security+**
+- 🎯 In progress: **AWS Certified Security – Specialty**
 
 ---
 
-## 🎓 Community Involvement
+## 🎓 Community
 
-- 👩‍🏫 **CompTIA Security+ Study Group** - Teaching exam prep courses
-- 🤝 **WiCyS Professional Mentorship Program** - Active mentor
-- 💡 **GRC Engineering Club** - Member & contributor
-- 🔐 **DevSec Blueprint Community** - Technical participant
+- 💡 **GRC Engineering Club** — Member and active participant in builder sessions
+- 🤝 **WiCyS** — Active mentor in the Professional Mentorship Program
+- 💬 **Black Tech Network Texas** — Facebook group moderator
+- 🔐 **Digital Defense Foundation** — Cybersecurity group moderator
 
 ---
 
@@ -179,12 +182,12 @@ Currently: Senior Cyber Security Engineer supporting cloud-hosted systems | CISS
 
 ## 📫 Let's Connect
 
-I'm always interested in discussing cloud security automation, GRC engineering practices, and building security controls as code. Feel free to reach out!
+I'm always interested in talking through cloud security engineering, compliance automation, and DevSecOps pipeline design. Reach out any time.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishapmcd)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@eunishap)
+[![Blog](https://img.shields.io/badge/Blog-notesbynisha.com-0A0A0A?style=for-the-badge&logoColor=white)](https://www.notesbynisha.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nisha318)
 
 ---
 
-*"Building bridges between compliance frameworks and cloud security automation, one Terraform module at a time."*
+*"The goal is not just to pass the audit. The goal is to build systems that deserve to pass it."*
