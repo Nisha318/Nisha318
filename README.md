@@ -12,9 +12,8 @@ Currently a Cloud Engineer at ManTech, supporting cloud-hosted systems in comple
 
 ## 🎯 What I'm Working On
 
-- 🐳 **[From Docker to EKS: A Security-First Progression](https://github.com/Nisha318/container-security-progression)** — Container security portfolio project building from Docker through EKS, with Trivy scanning, OpenTofu IaC, and NIST 800-53 control mapping
-- 🔬 **Compliance-as-Code Builder Session** — Developing a hands-on lab for the GRC Engineering Club covering Terraform and Checkov in an audit-ready CI/CD pipeline
-- 🎓 **AWS Certified Security – Specialty** — Active exam prep
+- 🐳 **[From Docker to EKS: A Security-First Progression](https://github.com/Nisha318/container-security-progression)** - Container security portfolio project building from Docker through EKS, with Trivy scanning, OpenTofu IaC, and NIST 800-53 control mapping
+- 🎓 **AWS Certified Security – Specialty** - Active exam prep
 
 ---
 
@@ -167,10 +166,10 @@ Currently a Cloud Engineer at ManTech, supporting cloud-hosted systems in comple
 
 ## 🎓 Community
 
-- 💡 **GRC Engineering Club** — Member and active participant in builder sessions
-- 🤝 **WiCyS** — Active mentor in the Professional Mentorship Program
-- 💬 **Black Tech Network Texas** — Facebook group moderator
-- 🔐 **Digital Defense Foundation** — Cybersecurity group moderator
+- 💡 **GRC Engineering Club** - Member and active participant in builder sessions
+- 🤝 **WiCyS** - Active mentor in the Professional Mentorship Program
+- 💬 **Black Tech Network Texas** - Facebook group moderator
+- 🔐 **Digital Defense Foundation** - Cybersecurity group moderator
 
 ---
 
