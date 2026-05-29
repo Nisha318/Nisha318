@@ -1,10 +1,10 @@
 # Hi, I'm Nisha 👋
 
-**Cloud Security Engineer | DevSecOps | GRC Automation**
+**Infrastructure Security | Compliance Automation | DevSecOps**
 
-I build security controls as code. My work sits at the intersection of cloud engineering and compliance automation: translating NIST 800-53 controls into working infrastructure, designing DevSecOps pipelines that catch vulnerabilities before deployment, and architecting secure systems in AWS and Azure environments.
+I build security controls as code. My work sits at the intersection of cloud infrastructure and compliance automation: architecting secure systems in AWS and Azure, translating NIST 800-53 controls into working infrastructure, and building the automated guardrails (DevSecOps pipelines included) that keep those environments secure and compliant.
 
-Currently a Cloud Engineer at ManTech, supporting cloud-hosted systems in complex compliance environments. CISSP | AWS Solutions Architect Associate | AWS Security Specialty (in progress)
+Currently a Cloud Engineer supporting cloud-hosted systems in compliance environments. CISSP | AWS Solutions Architect Associate | AWS Security Specialty (in progress)
 
 🔗 [LinkedIn](https://linkedin.com/in/nishapmcd) | 📝 [Blog](https://www.notesbynisha.com) | 🌐 [Portfolio](https://www.nishacloud.com)
 
@@ -13,6 +13,7 @@ Currently a Cloud Engineer at ManTech, supporting cloud-hosted systems in comple
 ## 🎯 What I'm Working On
 
 - 🐳 **[From Docker to EKS: A Security-First Progression](https://github.com/Nisha318/container-security-progression)** - Container security portfolio project building from Docker through EKS, with Trivy scanning, OpenTofu IaC, and NIST 800-53 control mapping
+- 🛡️ **[Operation Aegis](https://github.com/Nisha318/operation-aegis)** - DevSec Blueprint capstone: a four-layer automated security pipeline on GitHub Actions (SAST/SCA, secrets scanning, DAST, and aggregated reporting) defending a deliberately vulnerable demo API
 - 🎓 **AWS Certified Security – Specialty** - Active exam prep
 
 ---
@@ -103,20 +104,20 @@ Currently a Cloud Engineer at ManTech, supporting cloud-hosted systems in comple
 
 ### Vulnerability & Compliance Management
 
-- **[OpenVAS Vulnerability Assessment](https://nisha318.github.io/Vulnerability-Scanning-with-OpenVAS-Unveiling-Cybersecurity-Insights/)** — Complete vulnerability analysis workflow with remediation tracking
-- **[Nmap Network Scanning](https://nisha318.github.io/Vulnerability-Scanning-with-Nmap-Network-Scanning/)** — Automated network discovery and security posture assessment
-- **[AWS Security Posture Checker](https://github.com/Nisha318)** — Python/boto3 tool combining EC2 inventory and S3 security auditing
+- **[OpenVAS Vulnerability Assessment](https://nisha318.github.io/Vulnerability-Scanning-with-OpenVAS-Unveiling-Cybersecurity-Insights/)** - Complete vulnerability analysis workflow with remediation tracking
+- **[Nmap Network Scanning](https://nisha318.github.io/Vulnerability-Scanning-with-Nmap-Network-Scanning/)** - Automated network discovery and security posture assessment
+- **[AWS Security Posture Checker](https://github.com/Nisha318)** - Python/boto3 tool combining EC2 inventory and S3 security auditing
 
 ### Threat Detection & Security Operations
 
-- **[Azure Sentinel Live Attack Map](https://github.com/Nisha318/Sentinel-SIEM-Projects/tree/main/Azure%20Sentinel%20Map%20With%20LIve%20Cyber%20Attacks!)** — Real-time threat visualization and geo-mapping
-- **[Incident Handling with Splunk](https://github.com/Nisha318/Incident-Response-and-Handling/tree/main/Incident%20Handling%20with%20Splunk)** — End-to-end incident response workflows
+- **[Azure Sentinel Live Attack Map](https://github.com/Nisha318/Sentinel-SIEM-Projects/tree/main/Azure%20Sentinel%20Map%20With%20LIve%20Cyber%20Attacks!)** - Real-time threat visualization and geo-mapping
+- **[Incident Handling with Splunk](https://github.com/Nisha318/Incident-Response-and-Handling/tree/main/Incident%20Handling%20with%20Splunk)** - End-to-end incident response workflows
 
 ### Offensive Security & Red Team
 
-- **[Active Directory Penetration Testing](https://github.com/Nisha318/Ethical-Hacking-Penetration-Testing/blob/main/Active%20Directory%20Attacks/README.md)** — Full AD attack chain lab environment
-- **[Hack the Box Walkthroughs](https://github.com/Nisha318/hack-the-box-walkthroughs)** — CTF solutions and exploitation techniques
-- **[Penetration Testing Notes](https://github.com/Nisha318/pentest-notes-by-nisha/blob/main/SUMMARY.md)** — Comprehensive offensive security reference
+- **[Active Directory Penetration Testing](https://github.com/Nisha318/Ethical-Hacking-Penetration-Testing/blob/main/Active%20Directory%20Attacks/README.md)** - Full AD attack chain lab environment
+- **[Hack the Box Walkthroughs](https://github.com/Nisha318/hack-the-box-walkthroughs)** - CTF solutions and exploitation techniques
+- **[Penetration Testing Notes](https://github.com/Nisha318/pentest-notes-by-nisha/blob/main/SUMMARY.md)** - Comprehensive offensive security reference
 
 ---
 
@@ -154,11 +155,11 @@ Currently a Cloud Engineer at ManTech, supporting cloud-hosted systems in comple
 
 ## 📜 Certifications
 
-- **CISSP** — Certified Information Systems Security Professional
+- **CISSP** - Certified Information Systems Security Professional
 - **AWS Solutions Architect Associate**
 - **Azure Administrator Associate (AZ-104)**
 - **Azure Network Engineer Associate (AZ-700)**
-- **GDSA** — GIAC Defendable Security Architecture
+- **GDSA** - GIAC Defendable Security Architecture
 - **CompTIA Security+**
 - 🎯 In progress: **AWS Certified Security – Specialty**
 
