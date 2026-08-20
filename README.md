@@ -13,7 +13,8 @@ Currently a Cloud Engineer supporting cloud-hosted systems in compliance environ
 ## 🎯 What I'm Working On
 
 - 🐳 **[From Docker to EKS: A Security-First Progression](https://github.com/Nisha318/container-security-progression)** - Container security portfolio project building from Docker through EKS, with Trivy scanning, OpenTofu IaC, and NIST 800-53 control mapping
-- 🛡️ **[Operation Aegis](https://github.com/Nisha318/operation-aegis)** - DevSec Blueprint capstone: a four-layer automated security pipeline on GitHub Actions (SAST/SCA, secrets scanning, DAST, and aggregated reporting) defending a deliberately vulnerable demo API
+- 🛒 **[Multi-Tier ECS Fargate Deployment](https://github.com/Nisha318/retail-ecs-fargate-multitier)** - Phased, security-conscious deployment of AWS's retail-store-sample-app on ECS Fargate: VPC endpoints in place of a NAT Gateway, per-service least-privilege IAM, Aurora + ElastiCache Redis, and ADRs documenting every real bug hit along the way. Phase 3 (Checkout + Redis) deployed and verified; Orders up next
+- ☸️ **[Kubernetes CKA Lab](https://github.com/Nisha318/k8s-devsecops-lab)** - Self-managed Kubernetes cluster built from scratch on bare-metal ESXi with kubeadm, covering all five CKA exam domains with real troubleshooting logs and NIST 800-53 mapped write-ups; cloud-portable equivalent reproduced in OpenTofu for AWS EC2
 - 🎓 **AWS Certified Security – Specialty** - Active exam prep
 
 ---
@@ -54,6 +55,7 @@ Currently a Cloud Engineer supporting cloud-hosted systems in compliance environ
 
 | Project | Stack | Description |
 |---------|-------|-------------|
+| [Operation Aegis](https://github.com/Nisha318/operation-aegis) | GitHub Actions, SAST/SCA, DAST, Secrets Scanning | DevSec Blueprint capstone: a four-layer automated security pipeline defending a deliberately vulnerable demo API, with aggregated reporting |
 | [Application Vulnerability Scanning Pipeline](https://github.com/Nisha318/app-vuln-scanning) | Semgrep, Gitleaks, NJSScan, DefectDojo, GitHub Actions | Multi-tool SAST and secrets scanning pipeline with pre-commit hooks and DefectDojo integration; maps to NIST 800-53 |
 | [Terraform Flask Lab](https://github.com/Nisha318/terraform-flask-lab) | OpenTofu, Flask, GitHub Actions OIDC, S3 backend | Flask on AWS EC2 via OpenTofu with OIDC-based CI/CD, remote state, and NIST 800-53 control mapping |
 
