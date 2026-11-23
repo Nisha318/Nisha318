@@ -8,7 +8,7 @@ I came to cloud security through networking and infrastructure engineering, so I
 
 CISSP | AWS Security Specialty | AWS Solutions Architect Associate
 
-🔗 [LinkedIn](https://linkedin.com/in/nishapmcd) | 📝 [Blog](https://www.notesbynisha.com) | 🌐 [Portfolio](https://www.nishacloud.com)
+🔗 [LinkedIn](https://linkedin.com/in/nishapmcd) | 🌐 [Portfolio](https://notesbynisha.com) | 📝 [Blog](https://dev.to/nisha_mcdonnell_313b6b294)
 
 ---
 
@@ -189,7 +189,8 @@ CISSP | AWS Security Specialty | AWS Solutions Architect Associate
 I'm always interested in talking through cloud security engineering, compliance automation, and DevSecOps pipeline design. Reach out any time.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishapmcd)
-[![Blog](https://img.shields.io/badge/Blog-notesbynisha.com-0A0A0A?style=for-the-badge&logoColor=white)](https://www.notesbynisha.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-notesbynisha.com-0A0A0A?style=for-the-badge&logoColor=white)](https://notesbynisha.com)
+[![Blog](https://img.shields.io/badge/Blog-dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/nisha_mcdonnell_313b6b294)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nisha318)
 
 ---
