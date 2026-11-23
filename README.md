@@ -1,10 +1,12 @@
 # Hi, I'm Nisha 👋
 
-**Infrastructure Security | Compliance Automation | DevSecOps**
+**Cloud Security Engineering | Infrastructure as Code | Security Automation**
 
-I build security controls as code. My work sits at the intersection of cloud infrastructure and compliance automation: architecting secure systems in AWS and Azure, translating NIST 800-53 controls into working infrastructure, and building the automated guardrails (DevSecOps pipelines included) that keep those environments secure and compliant.
+I build security into AWS infrastructure as code. Identity, network boundaries, encryption, and compliance guardrails are written in OpenTofu and Terraform, tested in the pipeline, and promoted from dev to test to prod with everything else.
 
-Currently a Cloud Engineer supporting cloud-hosted systems in compliance environments. CISSP | AWS Solutions Architect Associate | AWS Security Specialty (in progress)
+I came to cloud security through networking and infrastructure engineering, so I think like the person who has to run the platform after the controls go in. My projects here are working labs you can clone and deploy, each one built around a real security problem and mapped to NIST 800-53.
+
+CISSP | AWS Security Specialty | AWS Solutions Architect Associate
 
 🔗 [LinkedIn](https://linkedin.com/in/nishapmcd) | 📝 [Blog](https://www.notesbynisha.com) | 🌐 [Portfolio](https://www.nishacloud.com)
 
@@ -14,7 +16,6 @@ Currently a Cloud Engineer supporting cloud-hosted systems in compliance environ
 
 - 🐳 **[From Docker to EKS: A Security-First Progression](https://github.com/Nisha318/container-security-progression)** - Container security portfolio project building from Docker through EKS, with Trivy scanning, OpenTofu IaC, and NIST 800-53 control mapping
 - 🛡️ **[Operation Aegis](https://github.com/Nisha318/operation-aegis)** - DevSec Blueprint capstone: a four-layer automated security pipeline on GitHub Actions (SAST/SCA, secrets scanning, DAST, and aggregated reporting) defending a deliberately vulnerable demo API
-- 🎓 **AWS Certified Security – Specialty** - Active exam prep
 
 ---
 
@@ -156,12 +157,15 @@ Currently a Cloud Engineer supporting cloud-hosted systems in compliance environ
 ## 📜 Certifications
 
 - **CISSP** - Certified Information Systems Security Professional
+- **AWS Certified Security - Specialty**
 - **AWS Solutions Architect Associate**
 - **Azure Administrator Associate (AZ-104)**
 - **Azure Network Engineer Associate (AZ-700)**
 - **GDSA** - GIAC Defendable Security Architecture
+- **CompTIA SecurityX**
+- **CompTIA CySA+**
 - **CompTIA Security+**
-- 🎯 In progress: **AWS Certified Security – Specialty**
+- **CCNA** - Cisco Certified Network Associate
 
 ---
 
